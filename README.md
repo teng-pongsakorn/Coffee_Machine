@@ -11,20 +11,20 @@ Java Developer (https://hyperskill.org/tracks/1)
 
 ## What you’ll do and what you’ll learn
 
-## Stage 1/6: Making coffee
+### Stage 1/6: Making coffee
 - Write a program that puts some basic information on the screen: let the machine describe what it takes to make a cup of coffee!
 
-## Stage 2/6: Ingredient calculator
+### Stage 2/6: Ingredient calculator
 - Program the machine to calculate the amount of ingredients it needs depending on how many people want some coffee.
 
-## Stage 3/6: Estimate the number of servings
+### Stage 3/6: Estimate the number of servings
 - Working with conditions, program the machine to estimate how many creamy coffees it can make based on the amount of ingredients we enter.
 
-## Stage 4/6: Buy, fill, take!
+### Stage 4/6: Buy, fill, take!
 - Teach your virtual coffee machine to perform three basic actions: collect the money, renew the supplies, and serve the coffee.
 
-## Stage 5/6: Keep track of the supplies
+### Stage 5/6: Keep track of the supplies
 - Program the machine to display on the screen the amount of supplies left. Set the main loop: now the menu keeps updating until you enter “exit”.
 
-## Stage 6/6: Brush up your code
+### Stage 6/6: Brush up your code
 - Time for some final touch-ups: structure the code so that it runs smoothly. 
